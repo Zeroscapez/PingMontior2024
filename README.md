@@ -15,7 +15,7 @@ Option B)
 3. Run without debugging enabled
 4. In the "Enter IP Address" text block, enter a valid IP Address
 5. Press the start button
-6. To stop the program, hit the stop button or close it
+6. To stop the program, hit the stop button or close it.
 
 
 Note: For Option A and B you must allow the program through firewall
