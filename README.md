@@ -3,14 +3,14 @@ Simple Ping Monitor similar to ping command in CMD in a barebone U.I.
 
 Option A)
 
-1. Open the "code" folder
-2. In the code folder open PingMonitorGUI.jar (if it does not open check Java version)
+1. Open the "code" folder and navigate to release
+2. Open PingMonitorGUI.jar (if it does not open check .java version)
 3. In the "Enter IP Address" text block, enter a valid IP Address
 4. Press the start button
 5. To stop the program, hit the stop button or close it
 
 Option B)
-1. Open the "code" folder
+1. Open the "code" folder and navigate to release
 2. Open PingMonitorGui.Java in Java code editor of choice
 3. Run without debugging enabled
 4. In the "Enter IP Address" text block, enter a valid IP Address
